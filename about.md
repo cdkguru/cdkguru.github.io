@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alex is a Software Engineer at AWS. He is based out of the Seattle office, but currently works remotely in St. Louis, MO.
 
-### More Information
+He is fascinated by AWS tools and how they can enable engineers and content creators to build meaningful experiences for their customers
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
 
-### Contact me
+LinkedIn: https://www.linkedin.com/in/apsking/
 
-[email@domain.com](mailto:email@domain.com)
+GitHub: https://github.com/apsking
+
+*All thoughts and comments expressed on this site are my own and not my employer's.*
