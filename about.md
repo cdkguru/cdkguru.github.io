@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Alex](images/portrait.png "Alex Portrait"){:style="float: right;"}
+
 Alex is a Software Engineer at AWS. He is based out of the Seattle office, but currently works remotely in St. Louis, MO.
 
 He is fascinated by AWS tools and how they can enable engineers and content creators to build meaningful experiences for their customers
