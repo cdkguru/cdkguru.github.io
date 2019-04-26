@@ -10,8 +10,8 @@ He is fascinated by AWS tools and how they can enable engineers and content crea
 
 ### Contact
 
-LinkedIn: https://www.linkedin.com/in/apsking/
+LinkedIn: [https://www.linkedin.com/in/apsking/](https://www.linkedin.com/in/apsking/)
 
-GitHub: https://github.com/apsking
+GitHub: [https://github.com/apsking](https://github.com/apsking)
 
 *All thoughts and comments expressed on this site are my own and not my employer's.*
